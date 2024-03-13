@@ -45,6 +45,7 @@ h1 {
             font-size: 16px;
             font-weight: 550;
             position: relative;
+            color: #464646;
         }
 
         input:focus {
@@ -100,6 +101,7 @@ h1 {
             span {
                 font-size: 15px;
                 font-weight: 550;
+                color: #464646;
             } 
 
             .delete {
